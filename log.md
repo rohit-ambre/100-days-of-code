@@ -6,6 +6,7 @@
 
 **Thoughts:** Actually I started coding everyday since few weeks but got to know about this 100DaysOfCode challenge and found it very exciting and inspiring to learn. 
 Completed some skills on HackerRank past few weeks and started with Responsive Web Design Certification on FreeCodeCamp from yesterday.
+Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
