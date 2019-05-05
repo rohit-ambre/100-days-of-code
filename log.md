@@ -10,4 +10,12 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+### Day 2: May 5, 2019 
+
+**Today's Progress**: Working on Responsive Web Design Certification and personal.
+
+**Thoughts:** Reached to final chapter of projects in Responsive Web Design Certification and solved a bug in Personal github Mega Movies project.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
 
