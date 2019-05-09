@@ -46,3 +46,11 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+### Day 6: May 9, 2019 
+
+**Today's Progress**: Completed 2 project from Responsive Web Design Certification.
+
+**Thoughts:** Completed all 5 projects from freecodecamp Responsive web design course. waiting for my 1st certificate. 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
