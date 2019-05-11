@@ -54,3 +54,21 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 7: May 9, 2019 
+
+**Today's Progress**: started on Javascript course on Freecodecamp.
+
+**Thoughts:** Started on Javascript, I always wanted to leran javascript from basics to the top, I think this the good opportunity for that also reading js_tut's javascript grammar book. 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+### Day 8: May 9, 2019 
+
+**Today's Progress**: Bug fixing on my personal project on github.
+
+**Thoughts:** Not a good day as I struggled to solve few errors on Django project which was working fine till last week, there is still one error to be solved, took lot of my time.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
