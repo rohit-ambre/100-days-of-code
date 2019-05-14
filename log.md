@@ -90,3 +90,12 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 11: May 14, 2019 
+
+**Today's Progress**: solved tasks on Javascript and python.
+
+**Thoughts:** Solved few tasks from freecodecamp javascript course and few problems on python from HackerRank. Got my Responsive Web design certificate from freecodecamp.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
