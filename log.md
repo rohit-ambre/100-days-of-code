@@ -99,3 +99,12 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 12: May 15, 2019 
+
+**Today's Progress**: Attented AWS summit mumbai.
+
+**Thoughts:** Attended AWS Summit mumbai for the first time. It was a very good experience to listen to industry experts. Couldn't solve JS tasks as I am very tired.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
