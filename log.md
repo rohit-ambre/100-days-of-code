@@ -108,3 +108,13 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+
+### Day 13: May 16, 2019 
+
+**Today's Progress**: Solving JavaScirpt tasks from FCC.
+
+**Thoughts:** Solving Basic tasks from Javascript Freecodecamp course and reading javascript book from @js_tut.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
