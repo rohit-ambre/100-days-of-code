@@ -127,3 +127,12 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 15: May 18, 2019 
+
+**Today's Progress**: Completed basic lesson of javascript.
+
+**Thoughts:** Completed basic chapter of Javascript basics. Created env file for storing keys in Mega_movies project.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
