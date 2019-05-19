@@ -136,3 +136,12 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 16: May 19, 2019 
+
+**Today's Progress**: Completed ES6 chapter from freecodecamp.
+
+**Thoughts:** Completed ES6 chapter on Freecodecamp and working on RegEx chapter. Every time I see ES6, I feel I am learning something new.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
