@@ -145,3 +145,12 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 17: May 20, 2019 
+
+**Today's Progress**: Completed Regex and almost finished Debugging chapter.
+
+**Thoughts:** Completed Regex chapter in bus while I was stuck in traffic and started with Dubugging chapter.Very productive day done so many things in a day, watched movies and solved freecodecamp and office work.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
