@@ -154,3 +154,12 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 18: May 21, 2019 
+
+**Today's Progress**: Solved few tasks from javascript basic data structures.
+
+**Thoughts:** Solved few tasks from Freecodecamp javascript basic data structure chapter and solved a bug from Mega movies github project.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
