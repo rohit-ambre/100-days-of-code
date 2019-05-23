@@ -163,3 +163,21 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 19: May 22, 2019 
+
+**Today's Progress**: Completed data structures lesson.
+
+**Thoughts:** Completed basic data structures lesson from freecodecamp, Couldn't get too much time on it.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+### Day 20: May 23, 2019 
+
+**Today's Progress**: Solved few tasks from javascript basic algorithms.
+
+**Thoughts:** Solved few tasks from Freecodecamp javascript basic algorigthm lesson of freecodecamp and solved few tasks on Hackerrank.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
