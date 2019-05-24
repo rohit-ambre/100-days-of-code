@@ -181,3 +181,12 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 21: May 24, 2019 
+
+**Today's Progress**: Completed basic algorithm scripting lesson.
+
+**Thoughts:** Completed basic algorithm scripting lesson from freecodecamp.Got less time and I need to sleep early because i need to wake up early tomorrow.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
