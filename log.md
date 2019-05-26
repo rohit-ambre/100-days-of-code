@@ -190,3 +190,21 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 22: May 25, 2019 
+
+**Today's Progress**: I was sick and couldn't do anything.
+
+**Thoughts:** Went for a Photo walk in the morning and after coming back home I started feeling sick also couldn't eat much and slept early.
+
+**Link to work:** No work
+
+
+### Day 23: May 26, 2019 
+
+**Today's Progress**: Completed Object oriented Programming.
+
+**Thoughts:** Completed Object oriented programming lesson from Javascript. Downloaded few tutorials videos on various topics.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
