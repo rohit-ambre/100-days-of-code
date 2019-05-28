@@ -208,3 +208,12 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 24: May 27, 2019 
+
+**Today's Progress**: Working on functional programming.
+
+**Thoughts:** Working on Functional programmong lesson of freecodecamp javascript course.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
