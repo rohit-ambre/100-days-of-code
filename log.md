@@ -217,3 +217,12 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 25: May 28, 2019 
+
+**Today's Progress**: Completed functional programming and started on algos.
+
+**Thoughts:** Completed functional programming and started on intermediate alogirithms in javascript course. Its little tough recall all lessons from javascript course to use the best one for algos.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
