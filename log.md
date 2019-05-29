@@ -226,3 +226,12 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 26: May 29, 2019 
+
+**Today's Progress**: Solved few intermediate scripts.
+
+**Thoughts:** Solved few intermediate Algorithms from Javascript basics course. Algos are very good to test your ability.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
