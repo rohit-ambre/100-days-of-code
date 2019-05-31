@@ -235,3 +235,13 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+### Day 27: May 30, 2019 
+
+**Today's Progress**: Started on React basics from front end libraries.
+
+**Thoughts:** Gave a break to javascript algos and started on react front end libraries as I have small workshop coming up on this weekend.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
