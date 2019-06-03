@@ -245,3 +245,30 @@ Thank you Kallaway.
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
 
+### Day 28: May 31, 2019 
+
+**Today's Progress**: Solved few react tasks from freecodecamp.
+
+**Thoughts:** Continued solving tasks from react basic course from freecodecamp.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+### Day 29: June 1, 2019 
+
+**Today's Progress**: attended day 1 of react basics workshop.
+
+**Thoughts:** creating react app and how to use props and click event handlers.
+
+**Link to work:** 
+
+
+### Day 30: June 2, 2019 
+
+**Today's Progress**: attended day 2 of react basics workshop.
+
+**Thoughts:** What is states in React, state management, lifecycle and lifecycle methods. Created ToDo app and a small task to start thinking in react.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
