@@ -285,7 +285,16 @@ Thank you Kallaway.
 
 **Today's Progress**: Completed react lessons from freecodecamp.
 
-**Thoughts:**  Cimpleted react lessons fro freecodecamp, Will be moving back to javascript course as I have left it in between for react course.
+**Thoughts:**  Completed react lessons fro freecodecamp, Will be moving back to javascript course as I have left it in between for react course.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+### Day 33: June 5, 2019 
+
+**Today's Progress**: solved few algos and added one page in mega_movies.
+
+**Thoughts:**  Solved few algos from freecodecamp and added booking page in Mega movies, content is pending.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
