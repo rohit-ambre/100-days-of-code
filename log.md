@@ -272,3 +272,21 @@ Thank you Kallaway.
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
 
+### Day 31: June 3, 2019 
+
+**Today's Progress**: couldn't do much solved few.
+
+**Thoughts:** solved few courses from react as I got very less time.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+### Day 32: June 4, 2019 
+
+**Today's Progress**: Completed react lessons from freecodecamp.
+
+**Thoughts:**  Cimpleted react lessons fro freecodecamp, Will be moving back to javascript course as I have left it in between for react course.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
