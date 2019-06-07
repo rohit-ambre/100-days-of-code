@@ -299,12 +299,21 @@ Thank you Kallaway.
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
 
-### Day 34: June 5, 2019 
+### Day 34: June 6, 2019 
 
 **Today's Progress**: solved few algos from freecodecamp.
 
 **Thoughts:**  Solved few algos from freecodecamp javascript course and reading on React component lifecycle.
  Feeling very sleepy and tired, I need a good long sleep.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+### Day 35: June 7, 2019 
+
+**Today's Progress**: Started on Redux lessons.
+
+**Thoughts:**  Started on Redux looks a bit confusing has so many terminologies and stuff. Completed Jquery from front-end libraries .
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
