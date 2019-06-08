@@ -317,3 +317,12 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+## Day 36: June 8, 2019 
+
+**Today's Progress**: Completed Redux and bootstrap.
+
+**Thoughts:**  Completed Redux which took a lot of time to understand the structure and completed Bootstrap and Sass from front end libraries on freecodecamp. I never user Sass but it looks intimidating, I would love to try it someday.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
