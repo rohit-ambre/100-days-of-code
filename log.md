@@ -326,3 +326,12 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+## Day 37: June 9, 2019 
+
+**Today's Progress**: Started on React+Redux lesson.
+
+**Thoughts:**  Started on React + Redux lessons from freecodecamp. Trying to understand structure of React-Redux application and workflow. There are just too many things to understand.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
