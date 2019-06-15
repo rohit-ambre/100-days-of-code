@@ -335,3 +335,57 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+## Day 38: June 10, 2019 
+
+**Today's Progress**: Completed React+Redux lessons.
+
+**Thoughts:**  Completed React + Redux lessons from freecodecamp. Started working on Projects under same.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+## Day 39: June 11, 2019 
+
+**Today's Progress**: Submitted one project from Front-end.
+
+**Thoughts:**  Submitted one project from front-end libraries projects. Reading about redux and saga.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+## Day 40: June 12, 2019 
+
+**Today's Progress**: Started on D3 course.
+
+**Thoughts:**  Started on D3 visuals course from freecodecamp. D3 is totally new for never used it before.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+## Day 41: June 13, 2019 
+
+**Today's Progress**: Submitted second project from front-end.
+
+**Thoughts:**  Submitted second project from front-end libraries. These projects are really great way to get your hands dirty in new technologies.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+## Day 42: June 14, 2019 
+
+**Today's Progress**: Solving D3 tasks.
+
+**Thoughts:**  Solving D3 tasks from Data Visualisation course. Din't know D3 can do so many things.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+## Day 43: June 15, 2019 
+
+**Today's Progress**: Booking page on Python project.
+
+**Thoughts:**  Completed Booking page from Django project and completed Intermediate algorithms from Javascript course of freecodecamp. These algos were really challenging.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
