@@ -389,3 +389,74 @@ Thank you Kallaway.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
 
+
+## Day 44: June 16, 2019 
+
+**Today's Progress**: Started Drum machine project.
+
+**Thoughts:**  Started Drum machine project from front-end technologies.Got stuck in the middle so completed few D3 tasks.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+## Day 45: June 17, 2019 
+
+**Today's Progress**: Completed D3 lessons from freecodecamp.
+
+**Thoughts:**  Completed D3 lessons form freecodecamp. and My computer suddenly turned off and its not booting up.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+## Day 46: June 18, 2019 
+
+**Today's Progress**: Completed Data visualization lessons.
+
+**Thoughts:**  Completed Data visualization lessons and the projects are humangous I've never used D3 and compared to what I learnt this is just too big.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+## Day 47: June 19, 2019 
+
+**Today's Progress**: Submitted two projects from javascript.
+
+**Thoughts:**  Submitted two projects from javascript on freecodecamp. they were tough had to look into hints to get some idea.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+## Day 48: June 20, 2019 
+
+**Today's Progress**: Started challenges on API and Microservices.
+
+**Thoughts:**  Started working on npm package handling, setting up glitch was a big task took lot of time. I think the documentation given is not adequate.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+## Day 49: June 21, 2019 
+
+**Today's Progress**: Solved one project from javascript course.
+
+**Thoughts:**  Solved one project from javascript course. feeling very sleepy and tired I need some good sleep.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+## Day 50: June 22, 2019 
+
+**Today's Progress**: Added one page in Django Project.
+
+**Thoughts:**  Added Booking history page in My Django project. Reading some redux and redux saga its tough to understand. read redux code. 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
+
+
+## Day 51: June 23, 2019 
+
+**Today's Progress**: Completed last javascript peoject.
+
+**Thoughts:**  Got Javascript and data structure certificate. what a great material on javascript for free Thank you freecodecamp and ossia.  
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/rohit_ambre)
